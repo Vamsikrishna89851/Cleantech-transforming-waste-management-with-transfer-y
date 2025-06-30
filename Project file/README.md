@@ -21,3 +21,4 @@ pip install -r requirements.txt
 ## Usage
 - **Train**: `python src/train.py --data_dir /path/to/dataset`
 - **Run app**: `python src/app.py`
+Team id:LTVIP2025TMID46538
